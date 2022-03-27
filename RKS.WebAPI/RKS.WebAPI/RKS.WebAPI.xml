@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RKS.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:RKS.WebAPI.Controllers.AuthorizationController.ValidateUser(RKS.Core.Entities.User)">
+            <summary>
+            
+            </summary>
+            <param name="username"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

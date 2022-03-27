@@ -3,3 +3,11 @@
 ################################################################################
 
 /RKS.WebAPI/RKS.Core/obj
+/.vs/RKS-API/v16
+/RKS.WebAPI/.vs/RKS.WebAPI/DesignTimeBuild
+/RKS.WebAPI/.vs/RKS.WebAPI/v16
+/RKS.WebAPI/RKS.Core/bin/Debug/net5.0
+/RKS.WebAPI/RKS.Infrastructure/bin/Debug/net5.0
+/RKS.WebAPI/RKS.Infrastructure/obj
+/RKS.WebAPI/RKS.WebAPI/bin/Debug/net5.0
+/RKS.WebAPI/RKS.WebAPI/obj
